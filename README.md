@@ -1,3 +1,3 @@
 # opencv_using_python
 
-###This is prcatice page
+### This is prcatice page
